@@ -64,7 +64,7 @@
                                             alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Bugatti</h5>
-                                            <p class="card-text">Mobilnya orang kaya</p>
+                                            <p class="card-text">Mobilnya para horang kaya</p>
                                         </div>
                                         <ul class="list-group list-group-flush">
                                             <li class="list-group-item">Rp. 2.000.000.000</li>
